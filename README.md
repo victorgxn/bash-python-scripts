@@ -1,6 +1,6 @@
 ## Objetivo
 
-# El objetivo de este repositorio es acelerar los tickets que lleguen al equipo de IT. Comandos:
+### El objetivo de este repositorio es acelerar los tickets que lleguen al equipo de IT. Comandos:
 
 - ageKidErr
 
