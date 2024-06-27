@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Navigate to the clickferry directory in the root
 cd ~/clickferry
 
