@@ -1,0 +1,1 @@
+firefox "https://www.reddit.com/r/rust/" "https://doc.rust-lang.org/rust-by-example/index.html" "https://www.reddit.com/r/ProgrammerHumor/" "https://www.timelaboris.es/trabajadores"
